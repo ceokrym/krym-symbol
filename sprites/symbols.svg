@@ -1,0 +1,9 @@
+<!-- sprites/symbols.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <!-- KRYM symbol -->
+  <symbol id="simbolo" viewBox="0 0 1000 1000" fill="currentColor" stroke="none">
+    <!-- Pega aquí los <path .../> de tu svg maestro (sin <svg> envolvente) -->
+    <!-- Ejemplo (reemplaza por lo tuyo): -->
+    <!-- <path d="M ... Z"/> -->
+  </symbol>
+</svg>
